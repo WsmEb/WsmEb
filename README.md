@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ouassim ELbachiri</h1>
-<h3 align="center">Software Developer & Junior DevOps Engineer Passionate about building robust web applications and enhancing cloud infrastructure. Skilled in full-stack development with MERN stack and Laravel, along with experience in DevOps practices including CI/CD, containerization (Docker), and cloud management. Eager to leverage my technical expertise in solving complex problems and contributing to dynamic, innovative teams.</h3>
+<h3 align="center">Software Developer & Junior DevOps Engineer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://ouassim-portfolio.netlify.app/](https://ouassim-portfolio.netlify.app/)
 
