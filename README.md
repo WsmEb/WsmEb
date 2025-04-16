@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ouassim ELbachiri</h1>
 <h3 align="center">Software Developer & Junior DevOps Engineer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ouassim-portfolio.netlify.app/](https://ouassim-portfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@wassimelbachiri38](https://medium.com/@wassimelbachiri38)
-
 - 📫 How to reach me **ouassimelbachiri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
