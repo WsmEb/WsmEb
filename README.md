@@ -1,6 +1,6 @@
 <h1 align="center">Ouassim ELbachiri</h1>
 
-- 📫 How to reach me **ouassimelbachiri@gmail.com**
+- 📫 reach me **ouassimelbachiri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
