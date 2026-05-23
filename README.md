@@ -1,4 +1,4 @@
-<h1 align="center">Ouassim ELbachiri</h1>
+<h1 align="center">ouassim  el bachiri</h1>
 
 - 📫 reach me **ouassimelbachiri@gmail.com**
 
